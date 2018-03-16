@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:WikipediaKit-master/WikipediaKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AroundMe_2/AroundMe.xcodeproj">
+   </FileRef>
+</Workspace>
